@@ -1,0 +1,19 @@
+settings =
+{
+	--[[
+	orientation = {
+		default = "portrait",
+		supported = { "portrait", },
+		-- supported = { "landscapeLeft", "landscapeRight" },
+		-- supported = { "landscapeLeft", "landscapeRight", "portrait", "portraitUpsideDown", },
+	},
+	--]]
+
+	iphone =
+	{
+		plist =
+		{
+			-- UIApplicationExitsOnSuspend = true, -- default is false
+		},
+	}
+}

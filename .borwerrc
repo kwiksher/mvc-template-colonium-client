@@ -1,0 +1,5 @@
+{
+  "resolvers": [
+    "bitbucket-resolver"
+  ]
+}

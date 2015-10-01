@@ -1,0 +1,20 @@
+{
+  "name": "mvc-template-colonium-client",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kwiksher/mvc-template-colonium-client",
+  "authors": [
+    "Naoya Yamamoto <yamamoto@kwiksher.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "default": "https://bitbucket.org/develephant/mod_coronium/get/default.zip",
+    "EventDispatcher": "https://github.com/daveyang/EventDispatcher.git"
+  }
+}
