@@ -16,15 +16,15 @@ _G.apiKey = "2d0aa65e-208e-4e70-993c-e36a34bac6aa"
 ```
 
 ## Prerequisites
-### setup coronium server 
+### setup coronium server
 * ubuntu http://coronium.io/coronium-on-ubuntu.html
 * amazon http://coronium.io/coronium-on-amazon.html
 
 ## ubuntu Server 14.04.3 on virtual box
-* install with openSSH 
+* install with openSSH
 * create account as ubuntu
 * sudo ifconfig eth1 192.168.56.101 netmask 255.255.255.0 up
-* append ech1 to /etc/network/interfaces
+* append eth1 to /etc/network/interfaces
 ```
 auto eth1
 iface eth1 inet static
