@@ -1,5 +1,5 @@
 {
-  "name": "mvc-template-colonium-client",
+  "name": "mvc-template-coronium-client",
   "version": "0.0.0",
   "description": "",
   "main": "Gruntfile.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kwiksher/mvc-template-colonium-client"
+    "url": "https://github.com/kwiksher/mvc-template-coronium-client"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kwiksher/mvc-template-colonium-client/issues"
+    "url": "https://github.com/kwiksher/mvc-template-coronium-client/issues"
   },
-  "homepage": "https://github.com/kwiksher/mvc-template-colonium-client",
+  "homepage": "https://github.com/kwiksher/mvc-template-coronium-client",
   "devDependencies": {
     "grunt-contrib-copy": "^0.8.1"
   }
