@@ -16,6 +16,8 @@ _G.apiKey = "2d0aa65e-208e-4e70-993c-e36a34bac6aa"
 ```
 
 ## Prerequisites
+corona SDK http://coronalabs.com and coronium cloud
+
 ### setup coronium server
 * ubuntu http://coronium.io/coronium-on-ubuntu.html
 * amazon http://coronium.io/coronium-on-amazon.html
