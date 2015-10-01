@@ -27,7 +27,7 @@ local _Class_mt = {__index=_Class}
 local _H = display.contentHeight
 local _W = display.contentWidth
 local json     = require("json")
-local EvtD = require("lib.EventDispatcher")
+local EvtD = require("extlib.EventDispatcher")
 ---------------------
 ---------------------
 local data =  [[{
